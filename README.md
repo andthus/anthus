@@ -1,2 +1,0 @@
-# anthus
-Project website
